@@ -61,11 +61,6 @@ Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, or VS Code).
  Dockerize the application  
  Add unit & integration tests  
 
-## 🤝 Contribution
-Contributions, suggestions, and improvements are welcome.
-Feel free to fork the repository and create a pull request.
-
-
 ## Author
 **Rohit Tiwari**  
 Java & Spring Boot Developer  
